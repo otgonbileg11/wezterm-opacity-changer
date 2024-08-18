@@ -46,7 +46,7 @@ To set the terminal window opacity to `0.85`, run:
 ./target/release/terminal-opacity-configurator --opacity 0.85
 ```
 
-If -o is not specified, then it will change opacity to 1 or 0.9(if opacity was 1)/
+If `--opacity` is not specified, then it will change opacity to 1 or 0.9(if opacity was 1).
 
 ```bash
 ./target/release/terminal-opacity-configurator
